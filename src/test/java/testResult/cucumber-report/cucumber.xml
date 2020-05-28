@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="7.824193">
+<testcase classname="Login into TempRE Application" name="TC_01" time="7.824193">
+<system-out><![CDATA[Given Connect to DB and fetch the details SELECT TOP (05) [UserId],[CompanyId],[FirstName],[LastName],[Email],[IsSuperUser],[VerificationCode],[SendMailError],[HasActivated],[Password],[PasswordToBeDeleted],[WorkPhoneNo] FROM [PMTool_QA].[dbo].[tblUser].passed
+]]></system-out>
+</testcase>
+</testsuite>
